@@ -2,12 +2,13 @@
 
 def verificar(msg):
     while True:
-        frase = str(input(msg)).split()
+        frase = str(input(msg))
         #Verificando se a variável está vazia
         if frase == '':
             print('\033[31m[ERROR] Digite algo para o programa continuar.\033[m')
         else:
-            return frase
+            frase_separada = frase.split()
+            return frase_separada
             
             
 if __name__ == '__main__':
