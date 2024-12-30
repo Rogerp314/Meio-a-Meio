@@ -9,4 +9,4 @@
  -Feito em ambiente virtual;
  -Modularizado.
 
-Obs: Esse programa é um desafio no site CodinGames, aqui ele está com algumas mudanças.
+Obs: Esse programa é um desafio no site CodinGames, aqui ele está com algumas mudanças. E criei um executável.
